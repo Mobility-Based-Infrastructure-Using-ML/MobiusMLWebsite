@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{104:function(e,t){e.exports={data:{site:{siteMetadata:{title:"David's Site",description:"The best iOS bot on the market.",keywords:"supreme, iOS bot, supreme bot, shopify bot, iphone bot, supreme iphone"}}},layoutContext:{}}}});
+//# sourceMappingURL=path----914b66b0bfa462f25731.js.map
