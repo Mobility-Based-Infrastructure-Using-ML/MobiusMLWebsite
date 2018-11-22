@@ -1,0 +1,12 @@
+.Phone {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.PhonePic {
+    width: auto;
+    height: 700px;
+}
