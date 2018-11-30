@@ -4,7 +4,8 @@ body {
   font-size: 20px;
   margin: 0; 
   line-height: 1.3; 
-  background-image: linear-gradient(to right, #F16D85,  #F16E84, #F79769, #FDBB53);
+  /* background-image: linear-gradient(to right, #F16D85,  #F16E84, #F79769, #FDBB53); */
+  background: #7ba3d2;
 
 }
 

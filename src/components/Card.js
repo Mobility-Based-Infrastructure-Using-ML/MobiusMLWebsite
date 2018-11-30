@@ -3,9 +3,12 @@ import './Card.css'
 
 const Card = props => (
     <div className="Card">
-        <img src={props.image}></img>
-        <h3>{props.title}</h3>
+        <img src={props.image} id="backgroundImage"></img>
         <p>{props.text}</p>
+        <div className="tilt">
+            <img src={props.logoImage}></img>
+            <h3>{props.title}</h3>
+        </div>
     </div>
 )
 

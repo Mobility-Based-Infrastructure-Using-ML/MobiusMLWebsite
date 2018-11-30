@@ -1,18 +1,28 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "12dd6c3d1c02b3610565e5141561b1a5",
+        "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/Users/davidkrajewski/Desktop/coding/react/my-app/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -24,7 +34,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/davidkrajewski/Desktop/coding/react/my-app/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -41,13 +51,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "9475f522cf508224814999e4ffc34822",
+        "contentDigest": "3bef54484f3e730fd5b2d4af36a444b3",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-page-creator": {
-      "resolve": "/Users/davidkrajewski/Desktop/coding/react/my-app/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "resolve": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "id": "Plugin component-page-creator",
       "name": "component-page-creator",
       "version": "1.0.0",
@@ -59,7 +69,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/davidkrajewski/Desktop/coding/react/my-app/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "pluginFilepath": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "packageJson": {
         "name": "component-page-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
@@ -80,13 +90,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c65f2e6a420c5967ac4da34f2c2cbd94",
+        "contentDigest": "fdc4b8b687ee72f15454861d8c75783d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
-      "resolve": "/Users/davidkrajewski/Desktop/coding/react/my-app/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "resolve": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "id": "Plugin component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
@@ -98,7 +108,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/davidkrajewski/Desktop/coding/react/my-app/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "pluginFilepath": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
@@ -119,13 +129,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e4c04fcabcc225cb488e89f9f1dc1318",
+        "contentDigest": "46e5797c51905d16df37ec9305836ed9",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/Users/davidkrajewski/Desktop/coding/react/my-app/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -138,7 +148,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/davidkrajewski/Desktop/coding/react/my-app/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -155,13 +165,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "656d65e9339aaaab800fa5efdec4628b",
+        "contentDigest": "b8a714b5c09010297f416bea77e2a214",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/Users/davidkrajewski/Desktop/coding/react/my-app/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -173,7 +183,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/davidkrajewski/Desktop/coding/react/my-app/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -190,13 +200,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "874adb70807bb44942192006441dff33",
+        "contentDigest": "0ef560a8e14ac87c6f2669db166b3793",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/Users/davidkrajewski/Desktop/coding/react/my-app/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -209,7 +219,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/davidkrajewski/Desktop/coding/react/my-app/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -226,13 +236,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "2de3ac601ef98d506d50437593605536",
+        "contentDigest": "c775983a3c4a6c8e6d4ffb6dbb1a617f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "/Users/davidkrajewski/Desktop/coding/react/my-app/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "2.0.10",
@@ -244,7 +254,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/davidkrajewski/Desktop/coding/react/my-app/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
@@ -303,13 +313,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c3c76ecdfe967b60af28b4965ea5f2e9",
+        "contentDigest": "9f7de44a358c38330655e2cabcce805e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/Users/davidkrajewski/Desktop/coding/react/my-app",
+      "resolve": "/Users/davidkrajewski/Desktop/coding/react/mobius-site",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "1bf663a02e1115712117092be2d6a43d",
@@ -319,7 +329,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/davidkrajewski/Desktop/coding/react/my-app",
+      "pluginFilepath": "/Users/davidkrajewski/Desktop/coding/react/mobius-site",
       "packageJson": {
         "name": "gatsby-starter-default",
         "description": "Gatsby default starter",
@@ -368,7 +378,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "790dbebbe524a5748c3045a004073cc5",
+        "contentDigest": "a1e6441a4256a9c6bdd5923ac1f658af",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -379,14 +389,16 @@
         "description": "The best iOS bot on the market.",
         "keywords": "supreme, iOS bot, supreme bot, shopify bot, iphone bot, supreme iphone"
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-11-22T04:27:33.654Z",
+      "buildTime": "2018-11-30T02:15:35.024Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "64ef55572468803eb25eca78dca7733a",
+        "contentDigest": "49108dbce3ac1876d3e78e784c44a97c",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -396,18 +408,18 @@
       "jsonName": "404.json",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "/Users/davidkrajewski/Desktop/coding/react/my-app/src/pages/404.js",
+      "component": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/davidkrajewski/Desktop/coding/react/my-app/src/pages/404.js",
+      "componentPath": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cc392fa2c11b66b160143c65cd433013",
+        "contentDigest": "7b4229013808995f91032c7a04122259",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -417,18 +429,18 @@
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/Users/davidkrajewski/Desktop/coding/react/my-app/src/pages/index.js",
+      "component": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/davidkrajewski/Desktop/coding/react/my-app/src/pages/index.js",
+      "componentPath": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d6165b27e66d5c58eb2db92655b43f8d",
+        "contentDigest": "2f23ad55ae799926ae031d2adf65e8b5",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -438,18 +450,18 @@
       "jsonName": "page-2.json",
       "internalComponentName": "ComponentPage2",
       "path": "/page-2/",
-      "component": "/Users/davidkrajewski/Desktop/coding/react/my-app/src/pages/page-2.js",
+      "component": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/davidkrajewski/Desktop/coding/react/my-app/src/pages/page-2.js",
+      "componentPath": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/src/pages/page-2.js",
       "id": "SitePage /page-2/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "276db8503927a0f9e8d95c241e0d92a4",
+        "contentDigest": "15603f00641b2a9b7729451397e3626b",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -459,18 +471,18 @@
       "jsonName": "404-html.json",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "/Users/davidkrajewski/Desktop/coding/react/my-app/src/pages/404.js",
+      "component": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/Users/davidkrajewski/Desktop/coding/react/my-app/src/pages/404.js",
+      "componentPath": "/Users/davidkrajewski/Desktop/coding/react/mobius-site/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7942aec468d6e0f1dc64c25fdd9821cd",
+        "contentDigest": "33cf2f7b8373e776ca46cb718f3b969a",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }

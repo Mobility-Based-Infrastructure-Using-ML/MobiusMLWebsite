@@ -8,9 +8,9 @@ const IndexPage = () => (
 
     <div className="Hero">
       <div className="HeroGroup">
-      <h1>Swiped IO</h1>
-      <p>At home? At school? <br /> On the train ride back from work? <br /> We got you.</p>
-      <Link to="/page-2/">Buy Now</Link>
+      <h1>Mobius ML</h1>
+      <p>Machine Learning Based <br /> Facial Recognition <br /> To Assist Quadriplegics. </p>
+      <Link>Learn More</Link>
       </div>
       
     </div>
@@ -21,24 +21,15 @@ const IndexPage = () => (
     <div className="Cards">
       <h2>Features</h2>
       <div className="CardGroup">
-        <Card title="One Click Captchas"
+        <Card title="Revolutionary Technology"
           text=""
           image={require('../images/wallpaper.jpg')}/>
-        <Card title="Lightning Fast Speeds"
+        <Card title="Insanely Low Loss"
           text=""
           image={require('../images/wallpaper2.jpg')}/>
-        <Card title="Intuitive Interface"
+        <Card title="Completely Open Source"
           text=""
-          image={require('../images/wallpaper3.jpg')}/>
-        <Card title="Super Simple Setup"
-          text=""
-          image={require('../images/wallpaper.jpg')}/>
-        <Card title="Webhook Support"
-          text=""
-          image={require('../images/wallpaper2.jpg')}/>
-          <Card title="Supreme, Shopify, and More"
-          text=""
-          image={require('../images/wallpaper3.jpg')}/>
+          image={require('../images/wallpaper3.jpg')} logoImage={require('../images/githubLogo.png')}/>
       </div>
     </div>
     

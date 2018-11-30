@@ -18,11 +18,11 @@
     box-shadow: 0 30px 60px rgba(0, 0, 0, 0.5);
 }
 
-.Card:hover img {
+#backgroundImage {
     transform: translateY(-25px);
 }
 
-.Card img {
+#backgroundImage {
     position: absolute;
     top: 0;
     height: 110%;
@@ -34,7 +34,7 @@
 
 .Card h3 {
     color: white; 
-    margin: 20px 0 0 20px;
+    margin: 10px 0 0 20px;
     font-size: 30px;
     width: 190px;
 }
@@ -48,3 +48,12 @@
     margin: 0 0 20px 20px;
 }
 
+.tilt {
+    transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);
+}
+
+.tilt img {
+    height: 100px;
+    width: auto;
+    background: transparent;
+}
